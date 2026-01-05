@@ -7,8 +7,6 @@ This software is a simple "Hello World" program developed to demonstrate the con
 I wrote this program in Python to simply print a greeting to the console.
 
 
-[Software Demo Video]({Paste your YouTube Link Here})
-
 # Development Environment
 
 * Windows 11
