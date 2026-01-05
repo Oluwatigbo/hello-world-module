@@ -6,7 +6,6 @@ This software is a simple "Hello World" program developed to demonstrate the con
 
 I wrote this program in Python to simply print a greeting to the console.
 
-{You can add 1-2 more sentences here about what you learned or the specific goal of this software.}
 
 [Software Demo Video]({Paste your YouTube Link Here})
 
